@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isaxavierz
 - 👀 I’m interested in backend
-- 🌱 I’m currently learning java and c# <!--- 💞️ I’m looking to collaborate on ... --->
+- 🌱 I’m currently learning java and c#
 - 📫 How to reach me isabellyxavier1323@hotmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm brazilian!
